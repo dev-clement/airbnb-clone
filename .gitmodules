@@ -1,6 +1,7 @@
 [submodule "airbnb-clone-front"]
 	path = airbnb-clone-front
 	url = git@github.com:dev-clement/airbnb-clone-front.git
+	branch = main
 [submodule "airbnb-clone-back-end"]
 	path = airbnb-clone-back-end
 	url = git@github.com:dev-clement/airbnb-clone-back-end.git
